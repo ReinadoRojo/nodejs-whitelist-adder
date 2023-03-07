@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+form{
+  font-family: 'Roboto', sans-serif;
+}
+
+.error{
+  color: rgb(188, 31, 31);
+  border: rgb(188, 31, 31);
+}
+
+.correct{
+  color: rgb(1, 144, 41);
+  border: rgb(1, 144, 41);
+}
